@@ -1,0 +1,211 @@
+exit: "&cExit"
+noenchant: "&cNo Enchantable Item Found"
+not-enough-levels: "&cNot enough levels!"
+click-to-enchant: "&eClick to enchant!"
+at-least: "&7Guarantees at least:"
+levels: " Levels"
+enchxpcolor: "&6"
+enchant-item: "&aEnchant Item "
+inventory-name: "Enchant Item"
+onlyplayers: "&cOnly players can use this command."
+nopermission: "&cYou don't have permission to do this!"
+reloadedconfig: "&aReloaded config for HypixelEnchanting"
+
+not-enough-levels-sound: "VILLAGER_NO"
+enchanted-sound: "ORB_PICKUP"
+
+
+PROTECTION_ENVIRONMENTAL:
+  name: "&eProtection"
+
+  description:
+    -  "Reduces most types of damage by 4% for each level"
+
+PROTECTION_FIRE:
+  name: "&eFire Protection"
+
+  description:
+    -  "Reduces fire damage and burn time"
+
+
+PROTECTION_FALL:
+  name: "&eFeather Falling"
+
+  description:
+    -  "Reduces fall damage"
+
+
+PROTECTION_EXPLOSIONS:
+  name: "&eBlast Protection"
+
+  description:
+    -  "Reduces explosion damage and knockback"
+    
+
+
+PROTECTION_PROJECTILE:
+  name: "&eProjectile Protection"
+
+  description:
+    -  "Reduces projectile damage"
+    
+
+
+OXYGEN:
+  name: "&eRespiration"
+
+  description:
+    -  "Extends underwater breathing time"
+    
+
+
+WATER_WORKER:
+  name: "&eAqua Affinity"
+
+  description:
+    -  "Increases underwater mining speed"
+    
+
+
+THORNS:
+  name: "&eThorns"
+
+  description:
+    -  "Reflects some of the damage taken"
+    
+
+
+DEPTH_STRIDER:
+  name: "&eDepth Strider"
+
+  description:
+    -  "Increases underwater movement speed"
+    
+
+
+DAMAGE_ALL:
+  name: "&eSharpness"
+
+  description:
+    -  "Increases damage"
+    
+
+
+DAMAGE_UNDEAD:
+  name: "&eSmite"
+
+  description:
+    -  "Increases damage to undead mobs"
+    
+
+
+DAMAGE_ARTHROPODS:
+  name: "&eBane of Arthropods"
+
+  description:
+    -  "Increases damage to arthropods"
+    
+
+
+KNOCKBACK:
+  name: "&eKnockback"
+
+  description:
+    -  "Increases knockback"
+    
+
+
+FIRE_ASPECT:
+  name: "&eFire Aspect"
+
+  description:
+    -  "Sets target on fire"
+    
+
+
+LOOT_BONUS_MOBS:
+  name: "&eLooting"
+
+  description:
+    -  "Increases mob loot"
+    
+
+
+DIG_SPEED:
+  name: "&eEfficiency"
+
+  description:
+    -  "Increases mining speed"
+    
+
+
+SILK_TOUCH:
+  name: "&eSilk Touch"
+
+  description:
+    -  "Mined blocks drop themselves"
+    
+
+
+DURABILITY:
+  name: "&eUnbreaking"
+
+  description:
+    -  "Increases item durability"
+    
+
+
+LOOT_BONUS_BLOCKS:
+  name: "&eFortune"
+
+  description:
+    -  "Increases certain block drops"
+    
+
+
+ARROW_DAMAGE:
+  name: "&ePower"
+
+  description:
+    -  "Increases arrow damage"
+    
+
+
+ARROW_KNOCKBACK:
+  name: "&ePunch"
+
+  description:
+    -  "Increases arrow knockback"
+    
+
+
+ARROW_FIRE:
+  name: "&eFlame"
+
+  description:
+    -  "Arrows set target on fire"
+    
+
+
+ARROW_INFINITE:
+  name: "&eInfinity"
+
+  description:
+    -  "Shooting consumes no regular arrows"
+    
+
+
+LUCK:
+  name: "&eLuck of the Sea"
+
+  description:
+    -  "Increases rate of good loot"
+    
+
+
+LURE:
+  name: "&eLure"
+
+  description:
+    -  "Decreases wait time until fish bites"
+    
