@@ -1,0 +1,20 @@
+name: EnchantSistem
+version: 1.0
+author: Lev SHmelev
+main: com.enchants.Main
+api-version: 1.8
+
+commands:
+  updateitemlore:
+    description: Updates item lore on held item
+  hereload:
+    description: Reloads config for HE
+  epicgamermoment:
+
+permissions:
+    hypixelenchanting.update:
+      description: Allows player to do /updateitemlore
+      default: true
+    hypixelenchanting.reload:
+      description: Allows players to reload hypixelenchanting config (/hereload)
+      default: op
